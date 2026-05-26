@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T16:41:15.452Z",
+  "lastUpdated": "2026-05-26T16:45:36.874Z",
   "groups": {
     "Travel": {
       "icon": "",
@@ -122,6 +122,62 @@
               "date": "2026-05-25T19:30:13-07:00",
               "resolution": "4K",
               "viewCount": 243103
+            }
+          ]
+        },
+        "Shaurya": {
+          "Japan": [
+            {
+              "youtubeLinkID": "RxEzCcasWXo",
+              "title": "Super Crazy Street Food of Japan | Food Vlog",
+              "thumbnail": "https://img.youtube.com/vi/RxEzCcasWXo/maxresdefault.jpg",
+              "duration": "17:54",
+              "durationSec": 1074,
+              "group": "Travel",
+              "category": "Shaurya",
+              "type": "Japan",
+              "date": "2026-04-27T03:43:28-07:00",
+              "resolution": "4K",
+              "viewCount": 63571
+            },
+            {
+              "youtubeLinkID": "aFVtI7TJ5wM",
+              "title": "This BULLET TRAIN is coming to INDIA | 1000 kms in 4 hours",
+              "thumbnail": "https://img.youtube.com/vi/aFVtI7TJ5wM/maxresdefault.jpg",
+              "duration": "20:17",
+              "durationSec": 1217,
+              "group": "Travel",
+              "category": "Shaurya",
+              "type": "Japan",
+              "date": "2025-12-30T20:29:09-08:00",
+              "resolution": "4K",
+              "viewCount": 263818
+            },
+            {
+              "youtubeLinkID": "DQJMst3zjYg",
+              "title": "I boarded a Historic Cruise in Japan 🇯🇵 | Cruise Tour | Telugu Japan Vlogs",
+              "thumbnail": "https://img.youtube.com/vi/DQJMst3zjYg/maxresdefault.jpg",
+              "duration": "24:28",
+              "durationSec": 1468,
+              "group": "Travel",
+              "category": "Shaurya",
+              "type": "Japan",
+              "date": "2025-11-20T02:57:23-08:00",
+              "resolution": "4K",
+              "viewCount": 76201
+            },
+            {
+              "youtubeLinkID": "dIwihtJCN4Q",
+              "title": "I realized that farmers in Japan are ULTRA RICH! Japan Village Full Tour | Telugu Vlogs",
+              "thumbnail": "https://img.youtube.com/vi/dIwihtJCN4Q/maxresdefault.jpg",
+              "duration": "36:35",
+              "durationSec": 2195,
+              "group": "Travel",
+              "category": "Shaurya",
+              "type": "Japan",
+              "date": "2025-08-25T05:15:12-07:00",
+              "resolution": "1080p",
+              "viewCount": 245023
             }
           ]
         }
