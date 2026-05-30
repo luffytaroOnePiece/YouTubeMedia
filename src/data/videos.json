@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T03:15:01.157Z",
+  "lastUpdated": "2026-05-30T11:46:25.890Z",
   "groups": {
     "Travel": {
       "icon": "",
@@ -135,6 +135,49 @@
               "date": "2026-05-28T19:42:24-07:00",
               "resolution": "4K",
               "viewCount": 120882
+            }
+          ]
+        },
+        "Uma": {
+          "Zimbabwe": [
+            {
+              "youtubeLinkID": "GVnRnWbQDuE",
+              "title": "2 Days Bus Journey 🚌 in Africa 🌍 | Zimbabwe 🇿🇼 | Uma Telugu Traveller ",
+              "thumbnail": "https://img.youtube.com/vi/GVnRnWbQDuE/maxresdefault.jpg",
+              "duration": "11:35",
+              "durationSec": 695,
+              "group": "Travel",
+              "category": "Uma",
+              "type": "Zimbabwe",
+              "date": "2026-05-26T19:30:17-07:00",
+              "resolution": "4K",
+              "viewCount": 158913
+            },
+            {
+              "youtubeLinkID": "Im88iKRwdOc",
+              "title": "My First Day Experience In Harare Zimbabwe 🇿🇼 | Uma Telugu Traveller",
+              "thumbnail": "https://img.youtube.com/vi/Im88iKRwdOc/maxresdefault.jpg",
+              "duration": "16:19",
+              "durationSec": 979,
+              "group": "Travel",
+              "category": "Uma",
+              "type": "Zimbabwe",
+              "date": "2026-05-27T19:30:20-07:00",
+              "resolution": "4K",
+              "viewCount": 177565
+            },
+            {
+              "youtubeLinkID": "hrYtd2wM6WE",
+              "title": "Dangerous Africa Animals 🌍 In Zimbabwe 🇿🇼 | Uma Telugu Traveller",
+              "thumbnail": "https://img.youtube.com/vi/hrYtd2wM6WE/maxresdefault.jpg",
+              "duration": "36:02",
+              "durationSec": 2162,
+              "group": "Travel",
+              "category": "Uma",
+              "type": "Zimbabwe",
+              "date": "2026-05-28T19:30:30-07:00",
+              "resolution": "4K",
+              "viewCount": 293204
             }
           ]
         },
